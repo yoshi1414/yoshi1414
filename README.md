@@ -36,4 +36,4 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi1414&theme=default)
-![Your GitHub stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yoshi1414&pie=false&color=white)
+![Your GitHub stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yoshi1414&pie=false&color=white&count_private=true)
