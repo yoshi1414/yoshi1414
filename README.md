@@ -6,7 +6,7 @@
 - 👯 Looking to collaborate on web projects
 - 📫 How to reach me: your-email@example.com
 
-## Tech Stack
+## 使用技術
 ***Languages & Frameworks***  
 [![Java](https://custom-icon-badges.herokuapp.com/badge/Java-b07219.svg?logo=Java&logoColor=white)]()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,6 +30,13 @@
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)<BR>
 
-## GitHub Stats
+## GitHubの活動統計
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi1414&layout=compact&theme=solarized-light)
+
+### Activity
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yoshi1414&theme=github)
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi1414&theme=default)
 ![Your GitHub stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yoshi1414&pie=false&color=white)
