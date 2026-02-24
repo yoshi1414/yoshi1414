@@ -31,5 +31,5 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)<BR>
 
 ## GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tako2024&theme=default)
-![Your GitHub stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=tako2024&pie=false&color=white)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi1414&theme=default)
+![Your GitHub stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yoshi1414&pie=false&color=white)
