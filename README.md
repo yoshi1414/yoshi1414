@@ -31,9 +31,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)<BR>
 
 ## GitHubの活動統計
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi1414)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats-nu-murex-75.vercel.app/?username=yoshi1414)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi1414&theme=default)
 ![Your GitHub stats](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yoshi1414&pie=false&color=white)
