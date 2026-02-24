@@ -31,7 +31,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)<BR>
 
 ## GitHubの活動統計
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi1414)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi1414)
 
 
 
