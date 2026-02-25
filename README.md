@@ -35,3 +35,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi1414&theme=default)
 ![Top Langs](https://github-readme-stats-mocha-omega-97.vercel.app/api/top-langs/?username=yoshi1414&layout=compact)
+
+https://zenn.dev/harunonsystem/articles/github-readme-stats-vercel-deploy
