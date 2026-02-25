@@ -34,4 +34,4 @@
 ![github stats](https://github-readme-stats-mocha-omega-97.vercel.app/api/?username=yoshi1414)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshi1414&theme=default)
-![Your GitHub stats](https://github-readme-stats-mocha-omega-97.vercel.app/api/languages.js?username=yoshi1414&pie=false&color=white)
+![Top Langs](https://github-readme-stats-mocha-omega-97.vercel.app/api/top-langs/?username=yoshi1414&layout=compact)
