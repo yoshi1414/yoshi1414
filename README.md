@@ -3,7 +3,7 @@
 ## About Me
 - 💻 Full Stack Developer
 - 🌱 I’m currently learning Java Spring Boot!
-　　　Next, I plan to learn React and TypeScript.
+- 🌱 Next, I plan to learn React and TypeScript.
 - 👯 Looking to collaborate on web projects
 - 📫 How to reach me: your-email@example.com
 
