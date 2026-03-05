@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Java Spring Boot!
 - 🌱 Next, I plan to learn React and TypeScript.
 - 👯 Looking to collaborate on web projects
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: yoshi20251403@gmail.com
 
-## 使用技術
+## my skills
 ***Languages & Frameworks***  
 [![Java](https://custom-icon-badges.herokuapp.com/badge/Java-b07219.svg?logo=Java&logoColor=white)]()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
