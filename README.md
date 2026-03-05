@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 💻 Full Stack Developer
-- 🌱 I’m currently learning Java Spring Boot!
-- 🌱 Next, I plan to learn React and TypeScript.
-- 👯 Looking to collaborate on web projects
-- 📫 How to reach me: yoshi20251403@gmail.com
+- 💻 I specialize in backend development with Java and Spring Boot.
+- 🌱 Currently enhancing my skills in Java Spring Boot.
+- 📘 Next, I plan to learn React and TypeScript to expand my frontend expertise.
+- 👯 Open to collaborating on innovative web development projects.
+- 📫 How to reach me: [yoshi20251403@gmail.com](mailto:yoshi20251403@gmail.com)
 
 ## my skills
 ***Languages & Frameworks***  
